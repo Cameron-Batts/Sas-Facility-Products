@@ -1,6 +1,6 @@
 # SAS Visual Analytics: Facility & Product Distribution Dashboard
 
-**Tools:** SAS Visual Analytics · SAS Studio · Data Visualization · Dashboard Design · Business Intelligence · Reporting
+**Tools:** SAS Visual Analytics · SAS Studio · Business Intelligence · Dashboard Reporting · Data Visualization
 
 ---
 
@@ -8,9 +8,9 @@
 
 Organizations with multiple suppliers, facilities, and product lines require centralized reporting to better understand inventory distribution, supplier concentration, and product category performance.
 
-This project uses SAS Visual Analytics to build an interactive dashboard that analyzes supplier activity, product categories, and product line distribution across multiple geographic regions.
+This project uses SAS Visual Analytics to build an interactive dashboard analyzing supplier activity, product categories, and product line distribution across multiple geographic regions.
 
-The objective was to create a business intelligence dashboard capable of supporting operational visibility and inventory-focused decision-making.
+The objective was to improve operational visibility and support inventory-focused business decision-making through interactive analytics and dashboard reporting.
 
 ---
 
@@ -23,7 +23,7 @@ The dashboard provides:
 - product group inventory visibility
 - quantity-based performance analysis
 
-The dashboard was designed to improve the ability to quickly identify:
+The dashboard was designed to identify:
 - high-volume suppliers
 - dominant product categories
 - regional product distribution patterns
@@ -36,9 +36,9 @@ The dashboard was designed to improve the ability to quickly identify:
 - SAS Visual Analytics
 - SAS Studio
 - SAS Reporting
-- Data Visualization
 - Business Intelligence Dashboards
 - Interactive Filtering
+- Data Visualization
 
 ---
 
@@ -46,8 +46,8 @@ The dashboard was designed to improve the ability to quickly identify:
 
 - Supplier analysis
 - Product distribution analysis
-- Regional filtering
 - Inventory reporting
+- Regional filtering
 - Dashboard visualization
 - Business intelligence reporting
 - Interactive analytics
@@ -118,17 +118,17 @@ This functionality supports regional operational analysis and product segmentati
 
 # Key Insights
 
-- Supplier inventory distribution is highly concentrated among a small number of major suppliers.
+- Supplier inventory distribution is concentrated among a small number of major suppliers.
 - Clothing and outdoor-related product lines represent significant portions of inventory volume.
 - Regional filtering improves operational visibility and supports targeted analysis.
-- Interactive dashboards improve accessibility and business reporting efficiency.
+- Interactive dashboards improve accessibility and reporting efficiency for business users.
 
 ---
 
 # Repository Structure
 
 ```text
-data/        -> source datasets and supporting files
+data/        -> project data information
 Images/      -> dashboard screenshots and visual outputs
 reports/     -> exported PDF dashboard reports
 README.md    -> project overview and documentation
@@ -142,6 +142,7 @@ README.md    -> project overview and documentation
 |------|-------------|
 | `reports/Family_Products_on_Apr_25__2026.pdf` | Exported SAS Visual Analytics dashboard report |
 | `Images/Facility-and-Products.png` | Dashboard visualization screenshot |
+| `data/README.md` | Information regarding project data source and usage |
 
 ---
 
