@@ -145,9 +145,10 @@ README.md    -> project overview and documentation
 | `data/README.md` | Information regarding project data source and usage |
 
 ---
+# Author
 
-# Portfolio
+Cameron Batts
 
-Portfolio Website: https://cameronbatts.github.io/
+GitHub: https://github.com/Cameron-Batts
 
-GitHub Profile: https://github.com/cameronbatts
+Portfolio: https://cameron-batts.github.io
